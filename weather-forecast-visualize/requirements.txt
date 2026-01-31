@@ -1,0 +1,16 @@
+pandas
+numpy
+requests
+openmeteo-requests
+requests-cache
+retry-requests
+plotly
+scikit-learn
+scipy
+statsmodels
+prophet
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pytest
